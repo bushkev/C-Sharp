@@ -1,0 +1,10 @@
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab_6.Lab6.resources
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.Cache
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\kevin\workspace\c#\c199\Lab 6\Lab 6\obj\Debug\Lab 6.pdb

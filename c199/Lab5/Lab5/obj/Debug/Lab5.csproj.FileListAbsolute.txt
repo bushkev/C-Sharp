@@ -1,0 +1,14 @@
+C:\Users\kpbush01\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\kpbush01\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\kpbush01\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\kpbush01\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\kpbush01\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\kpbush01\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\kpbush01\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\kevin\workspace\c#\c199\Lab5\Lab5\obj\Debug\Lab5.pdb

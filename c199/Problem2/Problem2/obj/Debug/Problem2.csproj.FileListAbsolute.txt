@@ -1,0 +1,10 @@
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.Problem2.resources
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.Properties.Resources.resources
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.csproj.GenerateResource.Cache
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\bin\Debug\Problem2.exe
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\bin\Debug\Problem2.pdb
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.exe
+C:\Users\kevin\workspace\c#\c199\Problem2\Problem2\obj\Debug\Problem2.pdb

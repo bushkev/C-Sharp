@@ -1,0 +1,10 @@
+C:\Users\kevin\workspace c#\Program 1\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\kevin\workspace c#\Program 1\Program 1\bin\Debug\Program 1.exe
+C:\Users\kevin\workspace c#\Program 1\Program 1\bin\Debug\Program 1.pdb
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program 1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program_1.PaintForm.resources
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program 1.csproj.GenerateResource.Cache
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program 1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program 1.exe
+C:\Users\kevin\workspace c#\Program 1\Program 1\obj\Debug\Program 1.pdb

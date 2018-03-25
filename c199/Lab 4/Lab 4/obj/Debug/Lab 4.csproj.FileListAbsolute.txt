@@ -1,0 +1,20 @@
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab_4.AdTestForm.resources
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\kevin\workspace c#\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab_4.AdTestForm.resources
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\kevin\workspace c#\c199\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
