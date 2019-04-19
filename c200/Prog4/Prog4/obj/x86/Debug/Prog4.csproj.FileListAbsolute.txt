@@ -1,0 +1,6 @@
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\bin\Debug\Prog1.exe
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\bin\Debug\Prog1.pdb
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\obj\x86\Debug\Prog4.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\obj\x86\Debug\Prog1.exe
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog4\Prog4\obj\x86\Debug\Prog1.pdb

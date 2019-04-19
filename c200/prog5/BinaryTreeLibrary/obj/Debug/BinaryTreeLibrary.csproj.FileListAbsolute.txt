@@ -1,0 +1,11 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.exe
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\prog5\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.exe
