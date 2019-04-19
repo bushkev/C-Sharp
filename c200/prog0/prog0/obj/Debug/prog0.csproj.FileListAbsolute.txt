@@ -1,0 +1,7 @@
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\obj\Debug\prog0.csprojAssemblyReference.cache
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\obj\Debug\prog0.csproj.CoreCompileInputs.cache
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\bin\Debug\prog0.exe.config
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\bin\Debug\prog0.exe
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\bin\Debug\prog0.pdb
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\obj\Debug\prog0.exe
+C:\Users\kevin\workspace\c#\c200\prog0\prog0\obj\Debug\prog0.pdb

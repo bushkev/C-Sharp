@@ -1,0 +1,6 @@
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1B.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1B.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\kevin\Desktop\u of l\classes\2018 fall\cis 200\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
