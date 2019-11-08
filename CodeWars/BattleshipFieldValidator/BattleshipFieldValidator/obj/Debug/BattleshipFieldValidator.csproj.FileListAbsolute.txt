@@ -1,7 +1,0 @@
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\bin\Debug\BattleshipFieldValidator.exe.config
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\bin\Debug\BattleshipFieldValidator.exe
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\bin\Debug\BattleshipFieldValidator.pdb
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\obj\Debug\BattleshipFieldValidator.csprojAssemblyReference.cache
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\obj\Debug\BattleshipFieldValidator.csproj.CoreCompileInputs.cache
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\obj\Debug\BattleshipFieldValidator.exe
-C:\Workshop\Csharp\Codewars\BattleshipFieldValidator\BattleshipFieldValidator\obj\Debug\BattleshipFieldValidator.pdb
